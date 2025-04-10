@@ -1,7 +1,7 @@
 # 🚀 about
 
 - 💬 Sot the lot of you.I do what I like~
-- 📫 holic-x@foxmail.com
+- 📫 prdpspkt@gmail.com
 - 🚀个人博客：⚽Java全栈学习[知识体系](http://blog.holic-x.com/)、🥚博客原始版 [一人の境](http://myblog.holic-x.com/)
 - 🌏社交网站：[掘金🏑](https://juejin.cn/user/2559318802054568)、[CSDN💬](https://blog.csdn.net/weixin_40376256)
 
