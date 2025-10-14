@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C#-FCC624?style=for-the-badge&logo=windows&logoColor=purple"/>
+  <img src="https://img.shields.io/badge/C#-FCC624?style=for-the-badge&logo=code&logoColor=purple"/>
   <img src="https://img.shields.io/badge/Ruby-F05032?style=for-the-badge&logo=ruby&logoColor="red"/>
   <!-- Add more badges for your stack -->
 </p>
