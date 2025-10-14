@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=csharp&logoColor=purple"/>
-  <img src="https://img.shields.io/badge/Ruby-Red?style=for-the-badge&logo=ruby&logoColor="red"/>
+  <img src="https://img.shields.io/badge/Ruby-F05032?style=for-the-badge&logo=ruby&logoColor="red"/>
   <!-- Add more badges for your stack -->
 </p>
 
