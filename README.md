@@ -65,6 +65,9 @@
 **🏛️ सरकारी कार्यालयहरूको लागि — For Government Offices**
 
 ```
+🕒  विद्युतीय परिक्षा प्रणाली (DLWES)
+    Electronic Attendance System · Django
+
 📦  सरकारी भण्डार व्यवस्थापन प्रणाली (Before PAMS)
     Government Store Management System · Ruby on Rails
 
