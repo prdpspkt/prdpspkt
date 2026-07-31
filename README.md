@@ -60,6 +60,33 @@
 
 ---
 
+### 📂 Selected Projects
+
+**🏛️ सरकारी कार्यालयहरूको लागि — For Government Offices**
+
+```
+📦  सरकारी भण्डार व्यवस्थापन प्रणाली (Before PAMS)
+    Government Store Management System · Ruby on Rails
+
+🚗  सवारी चालक अनुमतिपत्र वितरण प्रणाली (DLDMIS)
+    Driving License Distribution System · Django
+
+🕒  विद्युतीय हाजिरी प्रणाली (E-Attendance)
+    Electronic Attendance System · Django
+```
+
+**🔒 निजी प्रयोगको लागि — For Private Use**
+
+```
+🌐  विभिन्न वेबसाइटहरू
+    Various Websites · WordPress · Django
+
+🎓  ड्राइभिङ स्कुल व्यवस्थापन प्रणाली (DSMIS)
+    Driving School Management System · Django · GraphQL · React
+```
+
+---
+
 ### 📈 Currently
 
 ```
