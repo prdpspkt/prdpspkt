@@ -69,7 +69,7 @@
     Government Store Management System · Ruby on Rails
 
 🚗  सवारी चालक अनुमतिपत्र वितरण प्रणाली (DLDMIS)
-    Driving License Distribution System · Django
+    Driving License Distribution System (NOW OMS) · Django
 
 🕒  विद्युतीय हाजिरी प्रणाली (E-Attendance)
     Electronic Attendance System · Django
